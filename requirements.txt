@@ -1,0 +1,9 @@
+streamlit
+pdfplumber
+pdf2image
+pytesseract
+PyYAML
+Pillow
+fuzzywuzzy[speedup]
+python-Levenshtein
+pytest
